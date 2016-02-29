@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="label_application">ViewFactory Basic Sample</string>
+  <string name="label_activity">Basic Sample</string>
+  <string name="welcome_hint">Welcome, what\'s your name?</string>
+  <string name="hello">Hello, <b>%1$s</b>!</string>
+  <string name="hello_increment">Increment</string>
+</resources>
